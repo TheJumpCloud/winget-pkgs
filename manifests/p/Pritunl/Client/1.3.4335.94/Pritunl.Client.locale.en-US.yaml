@@ -1,0 +1,28 @@
+# Created with YamlCreate.ps1 v2.4.3 $debug=NVS1.CRLF.5-1-26100-2161.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: Pritunl.Client
+PackageVersion: 1.3.4335.94
+PackageLocale: en-US
+Publisher: Pritunl Inc.
+PublisherUrl: https://client.pritunl.com
+PublisherSupportUrl: https://support.pritunl.com
+PrivacyUrl: https://client.pritunl.com/privacy.html
+Author: Pritunl Inc.
+PackageName: Pritunl Client
+PackageUrl: https://client.pritunl.com
+License: Proprietary
+LicenseUrl: https://github.com/pritunl/pritunl-client-electron/blob/master/LICENSE
+Copyright: Copyright (c) 2015-2024 Pritunl
+# CopyrightUrl:
+ShortDescription: An open source openvpn client.
+Description: An open source openvpn client.
+Moniker: pritunl
+# Tags:
+# ReleaseNotes:
+# ReleaseNotesUrl:
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0
