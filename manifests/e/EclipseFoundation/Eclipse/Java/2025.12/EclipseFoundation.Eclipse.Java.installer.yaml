@@ -8,6 +8,7 @@ NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: eclipse/eclipse.exe
 ArchiveBinariesDependOnPath: true
+Scope: machine
 Installers:
 - Architecture: x64
   InstallerUrl: https://download.eclipse.org/technology/epp/downloads/release/2025-12/R/eclipse-java-2025-12-R-win32-x86_64.zip
