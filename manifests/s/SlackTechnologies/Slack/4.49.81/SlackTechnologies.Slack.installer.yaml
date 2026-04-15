@@ -23,6 +23,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: x64
   InstallerType: msix
+  Scope: machine
   InstallerUrl: https://downloads.slack-edge.com/desktop-releases/windows/x64/4.49.81/Slack.msix
   InstallerSha256: E0470D9217E34BF7375B991895F4AE77E6B33650ABA2F6C7870397EAB7820847
   SignatureSha256: CBE0D71D2344F72514167A528F1265CF65478168833E8FDCEF2803C3D4CC0571
@@ -32,6 +33,7 @@ Installers:
   MinimumOSVersion: 10.0.17763.0
   Architecture: arm64
   InstallerType: msix
+  Scope: machine
   InstallerUrl: https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.49.81/Slack.msix
   InstallerSha256: 78F4905A43362156D13FB0C9805356B414EEC32625B70A2E8BCD325B5E1CD3C4
   SignatureSha256: 93C91B55F46CD58D1DE94FD60851864DA8CB83FB6B5FE430BBB51187A85714C4
